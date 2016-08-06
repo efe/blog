@@ -1,8 +1,14 @@
 ---
+layout: page
 title: About
-permalink: /about/
 ---
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
+My name is `Efe Öge`. I am currently **Computer Enginnering Student** @Yıldız Technical University in Istanbul, Turkey. The blog is mostly about **computer science**, **problems** and **software**.
 
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+Main philosophy of the blog is `docendo discimus`. It means that ***we learn from teaching***.
+
+You can follow me on **[Github](https://github.com/efe)** or **[Twitter](https://twitter.com/efeoge)**. Also, Don't be shy about sending me an [e-mail](http://www.google.com/recaptcha/mailhide/d?k=016S5i6CBkBjmH6P2b3aewUQ==&c=Si1mVaKRRzDqszorvN3xlw==).
+
+All posts are licensed under a [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+
+###### Last edited in 29.05.2016
