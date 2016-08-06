@@ -1,16 +1,12 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
 # Basic
-name:               "Kiko"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
+name:               "FG"
+description:        "mostly about computer science, problems and software."
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
-author:             "gfjaru"
+url:                "//efe.me"
+author:             "efe"
 twitter:
-  username:         "gfjaru"
+  username:         "efe"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -18,7 +14,7 @@ twitter:
 # URL
 baseurl:            ""
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title/
+permalink:          /:year/:month/:title/
 
 # Markdown
 markdown:           kramdown
@@ -26,9 +22,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "//efe.me/about"
+  - name:           "Quotes"
+    href:           "//efe.me/quotes"
 
 # Sass
 sass:
