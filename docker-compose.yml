@@ -1,0 +1,10 @@
+version: "3"
+services:
+  site:
+    command: jekyll serve --drafts
+    image: jekyll/jekyll:pages
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
+      - 80:4000

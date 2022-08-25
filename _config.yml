@@ -1,0 +1,58 @@
+# Basic
+name:               "Efe Öge's blog"
+description:        "mostly about api design, python and design patterns."
+
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+url:                "https://efe.me"
+author:             "efeoge"
+twitter:
+  username:         "efeoge"
+
+# URL
+baseurl:            ""
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:title
+
+# Markdown
+markdown:           kramdown
+
+# Navigation
+nav:
+  - name:           "About"
+    href:           "/about"
+  - name:           "Projects"
+    href:           "/projects"
+  - name:           "Talks"
+    href:           "/talks"
+
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# jekyll-seo
+title: Efe Öge's blog
+twitter:
+  username: efeoge
+logo: https://efe.me//public/images/various/hipo-portrait-cropped.png
+
+exclude: ["docker-compose.yml", "run.sh", "CNAME"]
