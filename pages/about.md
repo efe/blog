@@ -14,7 +14,4 @@ I work as a backend software developer with more than 6 years of professional ex
 
 I currently build products with [Algorand](https://www.algorand.com/) blockchain. 
 
-You can reach me at [efeoge@gmail.com](mailto:efeoge@gmail.com).
-
-- [Github](https://github.com/efe)
-- [Linkedin](https://www.linkedin.com/in/efeoge/)
+You can reach me from [Github](https://github.com/efe) and [Linkedin](https://www.linkedin.com/in/efeoge/).
