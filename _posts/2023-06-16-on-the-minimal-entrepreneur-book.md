@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "on The Minimalist Entrepreneur book"
+title: "On The Minimalist Entrepreneur book"
 ---
 I'm always coming up with side project ideas. As a product-minded developer, I strive to understand the flow of everyday applications and generate new ideas. I envision prototypes in my mind, create their basic flow, and even purchase domains for them. However, I have never successfully turned any of these side projects into revenue-generating ventures. Consequently, they all end up languishing in my “side-projects list”. 
 
 One day, while browsing the best sellers section, I stumbled upon [The Minimalist Entrepreneur](https://www.goodreads.com/book/show/56913172-the-minimalist-entrepreneur) book. As I flipped through its pages, it struck me that this book might be tailored specifically to my needs.
 
-First and foremost, I was deeply impressed by [Sahil Lavingia](https://sahillavingia.com). Unlike other entrepreneurship influencers who often advocate for a “do it now, do it hard, do it better” mentality, Sahil Lavingia takes a different approach. He has walked this path before and shares his invaluable experiences from running his own startup, Gumroad. This distinction is what sets him apart and makes his insights particularly noteworthy.
+First and foremost, I was deeply impressed by [Sahil Lavingia](https://sahillavingia.com). Unlike other entrepreneurship influencers who often advocate for a “do it now, do it hard, do it better” mentality, Sahil Lavingia takes a different approach. He has walked this path before and shares his invaluable experiences from running his own startup, [Gumroad](https://gumroad.com). This distinction is what sets him apart and makes his insights particularly noteworthy.
 
 In this blog post, I will share how this book has influenced me.
 
@@ -19,6 +19,7 @@ But prioritize communities that are willing to pay for your solution to establis
 *2) Work for users not investors*
 
 Starting with investor capital as your primary funding source often results in building a product tailored to happy investors rather than serving the requirements of your actual users, leading to the implementing of fancy, not required features aimed at attracting next investment.
+
 From my perspective, I find angel investment puzzling because each investment is driven by selling the product at a higher price in the future, yet there is always the concern of finding someone at the end who will attempt to sell the product at an super-high price. At the end, there is the fear of not being able to secure the next investor.
 
 As an alternative, Sahil suggests focusing on selling directly to your customers, offering a profitable and small product that comes with lower costs, enabling long-term profitability.
