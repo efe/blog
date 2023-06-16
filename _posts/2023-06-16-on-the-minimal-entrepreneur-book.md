@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On The Minimalist Entrepreneur book"
+image: /public/images/posts/the-minimalist-entrepreneur-book/cover.jpeg
 ---
 I'm always coming up with side project ideas. As a product-minded developer, I strive to understand the flow of everyday applications and generate new ideas. I envision prototypes in my mind, create their basic flow, and even purchase domains for them. However, I have never successfully turned any of these side projects into revenue-generating ventures. Consequently, they all end up languishing in my “side-projects list”. 
 
@@ -10,13 +11,13 @@ First and foremost, I was deeply impressed by [Sahil Lavingia](https://sahillavi
 
 In this blog post, I will share how this book has influenced me.
 
-*1) Start from a community*
+**1) Start from a community**
 
 The majority of people typically search for a problem, build a product to solve it, and then try to reach users. However, Sahil suggests an alternative strategy: begin by finding your community. By doing so, you already have a customer base. Identify the challenges faced by this community and develop a product tailored specifically to their needs. This approach allows you to have a customer in the early stages of your startup.
 
 But prioritize communities that are willing to pay for your solution to establish a viable and sustainable business model. Most probably these might be small communities for big companies.
 
-*2) Work for users not investors*
+**2) Work for users not investors**
 
 Starting with investor capital as your primary funding source often results in building a product tailored to happy investors rather than serving the requirements of your actual users, leading to the implementing of fancy, not required features aimed at attracting next investment.
 
@@ -24,19 +25,19 @@ From my perspective, I find angel investment puzzling because each investment is
 
 As an alternative, Sahil suggests focusing on selling directly to your customers, offering a profitable and small product that comes with lower costs, enabling long-term profitability.
 
-*3) Do not offer your product for free*
+**3) Do not offer your product for free**
 
 Offering the product for free is only possible if you spend your investment, but this approach is not sustainable in the long run. Therefore, to ensure sustainability, it is crucial to start asking for payment from day one.
 
-*4) Be a star*
+**4) Be a star**
 
 Though it may sound somewhat disheartening, promoting yourself is often necessary to shine a spotlight on your company. Many of the prominent tech companies are closely associated with their founders or CEOs.
 
-*5) Hire someone, fire yourself*
+**5) Hire someone, fire yourself**
 
 As your company grows, it becomes crucial to hire individuals to drive its expansion. With each new hire, you must "fire" a part of yourself and delegate some of your responsibilities. Failing to do so can hinder the progress and success of your business.
 
-*6) Solve your problem*
+**6) Solve your problem**
 
 Personally, I am a big fan of simple yet powerful products like Calendly. Sahil highlights the example of [Tope Awotona](https://twitter.com/TopeAwotona), the founder of Calendly, who used to work in sales and frequently faced the challenge of scheduling meetings. He identified this common problem and developed Calendly as a solution. By solving his own problem, Tope Awotona also addressed a problem faced by most people.
 
