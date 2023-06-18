@@ -1,6 +1,6 @@
 # Basic
 name:               "Efe Öge's blog"
-description:        "mostly about api design, python and design patterns."
+description:        "Tech Tales from a Software Developer"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "https://efe.me"
