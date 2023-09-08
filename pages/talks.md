@@ -8,7 +8,7 @@ I talk at conferences and meetups mostly about web, Python, and backend stuff.
 
 ***
 
-Practical Guide to Database Locks with Django  @ PyCon Portugal 2023 (English) [Slides](https://efe.me/public/pdfs/practical-guide-to-database-locks-with-django-pycon-portugal-23.pdf)
+Practical Guide to Database Locks with Django  @ PyCon Portugal 2023 (English) [Slides](https://efe.me/public/pdfs/practical-guide-to-database-locks-with-django-pycon-portugal-23.pdf), [Video](https://www.youtube.com/watch?v=jU7v0ItW6tE&t=10900s)
 
 All about HTTP and Files @ PyConDE & PyConData 2022 (English) [Slides](https://efe.me/public/pdfs/all-about-http-and-files.pdf), [Video](https://www.youtube.com/watch?v=U-2k0ovzAPg)
 
