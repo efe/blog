@@ -6,6 +6,8 @@ permalink: /talks
 
 Once in a while, I discuss web, Python, and backend topics at conferences and meetups.
 
+---
+
 Practical Guide to Database Locks with Django  @ PyCon Portugal 2023 (English) [Slides](https://efe.me/public/pdfs/practical-guide-to-database-locks-with-django-pycon-portugal-23.pdf)
 
 All about HTTP and Files @ PyConDE & PyConData 2022 (English) [Slides](https://efe.me/public/pdfs/all-about-http-and-files.pdf), [Video](https://www.youtube.com/watch?v=U-2k0ovzAPg)
