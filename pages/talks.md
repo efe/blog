@@ -14,6 +14,6 @@ All about HTTP and Files, PyConDE & PyConData 2022 (English) [Slides](https://ef
 
 Serving files through HTTP, PyIstanbul #124 (Turkish) [Video](/2021/02/pyistanbul-talk-serving-files-through-http)
 
-PyCon Turkey Lightning Talk, Europython 2019 (English) [Video](https://youtu.be/T6vC_LOHBJ4?t=33023)
+PyCon Turkey Annoncement Lightning Talk, Europython 2019 (English) [Video](https://youtu.be/T6vC_LOHBJ4?t=33023)
 
 Özgür Yazılım Felsefesi, Yıldız Teknik Üniversitesi (Turkish) [Poster](/public/images/pages/talks/ozgur-yazilim-felsefesi-efe-oge.jpg)
