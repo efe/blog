@@ -5,6 +5,11 @@ permalink: /talks
 ---
 
 
+## 2023
+
+Practical Guide to Database Locks with Django  @ PyCon Portugal 2023 (English)
+- [Slides](https://efe.me/public/pdfs/practical-guide-to-database-locks-with-django-pycon-portugal-23.pdf)
+
 ## 2022
 
 All about HTTP and Files @ PyConDE & PyConData 2022 (English)
