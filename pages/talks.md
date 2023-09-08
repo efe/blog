@@ -4,9 +4,9 @@ title: Talks
 permalink: /talks
 ---
 
-Once in a while, I discuss web, Python, and backend topics at conferences and meetups.
+I talk at conferences and meetups mostly about web, Python, and backend stuff.
 
----
+***
 
 Practical Guide to Database Locks with Django  @ PyCon Portugal 2023 (English) [Slides](https://efe.me/public/pdfs/practical-guide-to-database-locks-with-django-pycon-portugal-23.pdf)
 
