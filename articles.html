@@ -3,16 +3,17 @@ layout: default
 keywords: efe öge, python, django
 ---
 <header class="masthead">
-  <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/">Efe Öge<span>&#39;s blog</span></a>
+  <h1 class="masthead-title--small">
+    <a href="{{ site.baseurl }}/">← Homepage</a>
   </h1>
-  <nav class="masthead-nav">
-    {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}</a>
-    {% endfor %}
-  </nav>
 </header>
+<div class="content post">
+  <h1 class="post-title">Articles</h1><br>
+</div>
+
 <div class="content list">
+  <p>Welcome to <i>Tech Tales from a Software Craftsman</i>, where I share my insights and experiences in the world of programming.</p>
+  <hr>
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
 {% else %}

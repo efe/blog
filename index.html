@@ -2,31 +2,14 @@
 layout: default
 keywords: efe öge, python, django
 ---
-<header class="masthead">
-  <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/">Efe Öge<span>&#39;s blog</span></a>
-  </h1>
-  <nav class="masthead-nav">
-    {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}</a>
-    {% endfor %}
-  </nav>
-</header>
-<div class="content list">
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% else %}
-{% for post in site.posts %}
-  {% unless post.category %}
-  <div class="list-item">
-    <h2 class="list-post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-    <div class="list-post-date">
-      <time>{{ post.date | date_to_string }}</time>
-    </div>
-  </div>
-  {% endunless %}
-{% endfor %}
-{% endif %}
+<div class="content">
+  <img src="/public/images/various/efe-oge-21.jpg" title="Efe Öge" height="200" width="200">
+  <p>I'm <b>Efe Öge</b>, a passionate software developer, tech lead, speaker, and writer.</p>
+  <p>I specialize in building and deploying web applications, ensuring the delivery of high-quality, scalable, and maintainable software products.</p>
+  <p>I mainly develop with Python, and sometimes I use Javascript and Go.</p>
+  <p>Feel free to explore my <a href="/articles">articles</a> about progamming.</p>
+  <p>I <a href="/talks">talk at conferences and meetups</a> mostly about web, Python, and backend stuff.</p>
+  <p>Find my open source work on my <a href="https://github.com/efe">github</a>.</p>
+  <p>You can get in touch with me through <a href="https://www.linkedin.com/in/efeoge/">LinkedIn</a> for any questions.</p>
+  <p>Cheers!</p>
 </div>

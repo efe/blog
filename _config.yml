@@ -18,8 +18,8 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "/about"
+  - name:           "Posts"
+    href:           "/posts"
   - name:           "Talks"
     href:           "/talks"
 
