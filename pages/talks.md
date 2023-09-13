@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks
 ---
 
+![Efe Öge at PyCon Portugal 2023](/public/images/various/pycon-portugal-23-efe-oge.jpg "Efe Öge at PyCon Portugal 2023")
+
 I talk at conferences and meetups mostly about web, Python, and backend stuff.
 
 ***
