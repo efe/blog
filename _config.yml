@@ -1,5 +1,5 @@
 # Basic
-name:               "Efe Öge's blog"
+name:               "Efe Öge"
 description:        "Tech Tales from a Software Craftsman"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
@@ -18,8 +18,8 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "Posts"
-    href:           "/posts"
+  - name:           "Articles"
+    href:           "/articles"
   - name:           "Talks"
     href:           "/talks"
 
@@ -48,7 +48,7 @@ plugins:
   - jekyll-sitemap
 
 # jekyll-seo
-title: Efe Öge's blog
+title: Efe Öge
 twitter:
   username: efeoge
 logo: https://efe.me//public/images/various/hipo-portrait-cropped.png

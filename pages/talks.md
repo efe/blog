@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Talks
+title: "Talks"
+description: "I talk at conferences and meetups mostly about web, Python, and backend stuff."
 permalink: /talks
 ---
 
