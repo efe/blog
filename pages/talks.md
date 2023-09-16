@@ -15,7 +15,8 @@ Practical Guide to Database Locks with Django, PyCon Portugal 2023 (English) [Sl
 
 All about HTTP and Files, PyConDE & PyConData 2022 (English) [Slides](https://efe.me/public/pdfs/all-about-http-and-files.pdf), [Video](https://www.youtube.com/watch?v=U-2k0ovzAPg)
 
-Serving files through HTTP, PyIstanbul #124 (Turkish) [Video](/2021/02/pyistanbul-talk-serving-files-through-http)
+Serving files through HTTP, PyIstanbul #124 (Turkish) [Slides](https://efe.me/public/pdfs/serving-files-through-http.pdf).
+, [Video](https://www.youtube.com/watch?v=k63NHzL8VEE)
 
 PyCon Turkey Annoncement Lightning Talk, Europython 2019 (English) [Video](https://youtu.be/T6vC_LOHBJ4?t=33023)
 
