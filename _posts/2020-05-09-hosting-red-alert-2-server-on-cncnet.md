@@ -2,15 +2,13 @@
 layout: post
 title: "Hosting Red Alert 2 Server on Cncnet"
 ---
-Red Alert 2 is a twenty years old epic PC game built by [Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios). I remember that we were using [Hamachi](https://en.wikipedia.org/wiki/LogMeIn_Hamachi) for playing online RA2. You could only play with your friends who joined your Hamachi network. As you can see, It was ugly and hacky solution.
+Red Alert 2 is an epic PC game that was released twenty years ago by [Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios). I remember using [Hamachi](https://en.wikipedia.org/wiki/LogMeIn_Hamachi) to play RA2 online; it allowed you to play only with friends who joined your Hamachi network. As you can imagine, it was quite an inelegant and makeshift solution.
 
-In 2009, [CnCNet](https://cncnet.org/what-is-cncnet) community (not associated with EA games) was established. CnCNet provides an online platform for Command and Conquer games (like Red Alert 2, Yuri’s Revenge, Tiberian Sun). Therefore, You can play these games online like CS:GO.
+In 2009, the [CnCNet](https://cncnet.org/what-is-cncnet) community (unaffiliated with EA Games) was established. CnCNet provides an online platform for Command and Conquer games, including Red Alert 2, Yuri’s Revenge, and Tiberian Sun. This means you can now enjoy playing these games online, much like CS:GO.
 
-I’ve discovered CnCNet in Covid-19 isolation. We’ve been playing RA2 online almost every night with my friend 
-Umut [like the good old days](/public/images/posts/cncnetserver/playing-pc-with-umut.jpg).
+I discovered CnCNet during the Covid-19 isolation period. My friend Umut and I have been playing RA2 online almost every night, just [like the good old days](/public/images/posts/cncnetserver/playing-pc-with-umut.jpg).
 
-Bad news, There aren’t any CnCNet servers in Turkey. However, CnCNet let you host your own server. I’ve dockerized their tool and [published on Docker hub](https://hub.docker.com/r/efeoge/cncnet_server). Therefore, It will be 
-easier to run.
+The downside is that there are no CnCNet servers in Turkey. However, CnCNet allows you to host your own server. I've dockerized their tool and [published it on Docker hub](https://hub.docker.com/r/efeoge/cncnet_server), making it easier for everyone to run.
 
 <center><img src="/public/images/posts/cncnetserver/done.gif" title="new construction options"></center>
 

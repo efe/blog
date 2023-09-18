@@ -3,8 +3,7 @@ layout: post
 title: "Arduino Wall Clock: Tiktik"
 image: /public/images/posts/tiktik/setting-rtc-ds3231.png
 ---
-I always like old fashion wall clock like
-[this](/public/images/posts/tiktik/antique-wall-clock.jpg). It gongs hourly. By this way, I spot the time during day. So, I thought that is it possible to build a digital clock like this? And, I did it! In this blogpost, I'm going to tell how it works.
+I've always had a fondness for [old-fashioned wall clocks like this one that chime every hour](/public/images/posts/tiktik/antique-wall-clock.jpg). They help me keep track of time throughout the day. So, I began to wonder, Is it possible to create a digital clock that replicates this charming feature? Well, I went ahead and did it! In this blog post, I'm going to explain how it works.
 
 ## Equipments
 
