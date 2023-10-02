@@ -15,7 +15,7 @@ Practical Guide to Database Locks with Django, PyCon Portugal 2023 [Slides](http
 
 All about HTTP and Files, PyConDE & PyConData 2022 [Slides](https://efe.me/public/pdfs/all-about-http-and-files.pdf), [Video](https://www.youtube.com/watch?v=U-2k0ovzAPg)
 
-Tinyman, Algorand Developer Office Hours, [Video](https://www.youtube.com/watch?v=cSTdnnkOhyE)
+Tinyman, Algorand Developer Office Hours [Video](https://www.youtube.com/watch?v=cSTdnnkOhyE)
 
 Serving files through HTTP, PyIstanbul #124 (Turkish) [Slides](https://efe.me/public/pdfs/serving-files-through-http.pdf), [Video](https://www.youtube.com/watch?v=k63NHzL8VEE)
 
