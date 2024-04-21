@@ -1,6 +1,7 @@
 
 # Created by https://www.gitignore.io/api/ruby,macos,jekyll
 
+.idea
 
 ### Jekyll ###
 _site/
