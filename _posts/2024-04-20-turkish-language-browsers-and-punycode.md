@@ -36,7 +36,7 @@ As a quick but risky solution, Browsers could display [Unicode](https://en.wikip
 
 These are all different domain names, which could lead to a problem known as an [IDN Homograph Attack](https://en.wikipedia.org/wiki/IDN_homograph_attack).
 
-As a smart and well-thought solution, Firefox and other modern browsers implemented [an algorithm for Internationalized domain name display](https://wiki.mozilla.org/IDN_Display_Algorithm#Algorithm) which finds sweet spot between security and user experience.
+As a smart and well-thought solution, Firefox and other modern browsers implemented [an algorithm for Internationalized domain name display](https://wiki.mozilla.org/IDN_Display_Algorithm#Algorithm) which finds sweet spot between security and user experience. Therefore, There is no need to afraid about it.
 
 Additionally, It is possible to show all non-ASCII characters as Punycode in Firefox. Just set `IDN_show_punycode` as `true` in `about:config`.
 
