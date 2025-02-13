@@ -92,4 +92,6 @@ build-iPhoneSimulator/
 # End of https://www.gitignore.io/api/ruby,macos,jekyll
 *.DS_Store
 .DS_Store
-.DS_Store
+
+node_modules
+.astro
