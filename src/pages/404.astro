@@ -1,0 +1,38 @@
+---
+import { getCollection } from "astro:content";
+import Header from "@/components/Header.astro";
+import { CONFIG } from "@/config";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { reformatDate, sortItemsByDateDesc } from "@/lib";
+
+const posts = (await getCollection("blog")).sort(sortItemsByDateDesc);
+const featuredBlogPosts = posts.filter(
+	({ data }) => data.isFeatured,
+);
+const softSkillPosts = posts.filter(
+	({ data }) => data.category === "soft-skill",
+);
+const conferenceTalkPosts = posts.filter(
+	({ data }) => data.category === "conference-talks",
+);
+---
+
+<BaseLayout description={CONFIG.meta.description}>
+  <Header />
+  <div class="flex flex-col space-y-6 md:space-y-12 pb-8 pt-4">
+    <div class="flex flex-col md:px-6 animate-slide-from-down-and-fade-2">
+      <div class="flex flex-col space-y-2">
+        <span class="font-semibold">404</span>
+        <span class="text-neutral-300/80 leading-6">
+          It was working on my local but..
+        </span>
+      </div>
+    </div>
+
+    <div class="flex flex-col space-y-6 md:space-y-12">
+
+    <a href="/"><img src="/public/images/various/404.png"></a>
+
+    </div>
+  </div>
+</BaseLayout>
