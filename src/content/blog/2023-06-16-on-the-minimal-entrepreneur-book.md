@@ -1,6 +1,6 @@
 ---
 title: "On The Minimalist Entrepreneur book"
-image: /public/images/posts/the-minimalist-entrepreneur-book/cover.jpeg
+image: /images/posts/the-minimalist-entrepreneur-book/cover.jpeg
 publishedAt: '2023-06-16'
 category: 'book'
 ---

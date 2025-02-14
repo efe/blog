@@ -1,11 +1,11 @@
 ---
 title: "Rustfest 2018 Paris"
-image: /public/images/posts/rustfest-2018-paris/001.jpg
+image: /images/posts/rustfest-2018-paris/001.jpg
 description: I'm interesting Rust 🦀 as second programming language in addition to Python. I'd like to learn how to develop low level stuff with Rust and new programming concepts which Rust has.
 publishedAt: '2018-05-30'
 ---
 
-![Rustfest 2018 Paris](/public/images/posts/rustfest-2018-paris/001.jpg "'Scalable Networking with Rust' Presentation by Tigran Bayburtsyan")
+![Rustfest 2018 Paris](/images/posts/rustfest-2018-paris/001.jpg "'Scalable Networking with Rust' Presentation by Tigran Bayburtsyan")
 
 I'm interesting Rust 🦀 as second programming language in addition to Python. I'd like to
 learn how to develop low level stuff with Rust and new programming concepts which Rust has.
@@ -23,7 +23,7 @@ days were for impl days which are discussion days.
 
 I became more interested in Rust after the conference. Happy to started this journey.
 
-![Mozilla Paris Office](/public/images/posts/rustfest-2018-paris/mozilla-paris.jpg "Mozilla Paris Office")
+![Mozilla Paris Office](/images/posts/rustfest-2018-paris/mozilla-paris.jpg "Mozilla Paris Office")
 
 The talks are available at [here](https://www.youtube.com/watch?v=23lRkdDXqY0&list=PL85XCvVPmGQgdqz9kz6qH3SI_hp7Zb4s1).
 

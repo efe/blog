@@ -7,8 +7,8 @@ I've been interested in interactive programming tools like [Processing](https://
 
 Even though I tried to learn TouchDesigner, node-based programming has a steep learning curve for those who come from procedural programmin like me. Therefore, I was so eager to join to the [Touchdesigner Beginners Workshop](https://creativecodingutrecht.nl/en/archive/td-beginners) in the [Utrecht Creative Coding](https://creativecodingutrecht.nl/en).
 
-![Touchdesigner Beginners Workshop 1](/public/images/posts/touchdesigner-beginners-workshop/touchdesigner-workshop-1.jpg "Touchdesigner Beginners Workshop 1")
-![Touchdesigner Beginners Workshop 2](/public/images/posts/touchdesigner-beginners-workshop/touchdesigner-workshop-2.jpg "Touchdesigner Beginners Workshop 2")
+![Touchdesigner Beginners Workshop 1](/images/posts/touchdesigner-beginners-workshop/touchdesigner-workshop-1.jpg "Touchdesigner Beginners Workshop 1")
+![Touchdesigner Beginners Workshop 2](/images/posts/touchdesigner-beginners-workshop/touchdesigner-workshop-2.jpg "Touchdesigner Beginners Workshop 2")
 
 Let me summarize the insights I gained during this workshop.
 

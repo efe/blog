@@ -1,6 +1,6 @@
 ---
 title: Slack Guideline
-og_image: /public/images/posts/slack-guideline/slack.png
+og_image: /images/posts/slack-guideline/slack.png
 publishedAt: '2018-06-03'
 category: "soft-skill"
 ---

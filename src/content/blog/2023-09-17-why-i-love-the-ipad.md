@@ -11,7 +11,7 @@ I enjoy thinking while writing, but I still prefer using paper over an iPad for 
 
 ### Second Monitor
 
-![Apple iPad Sidecar](/public/images/posts/why-i-love-the-ipad/apple-ipad-sidecar.jpg "Apple iPad Sidecar")
+![Apple iPad Sidecar](/images/posts/why-i-love-the-ipad/apple-ipad-sidecar.jpg "Apple iPad Sidecar")
 
 Apple introduced the *Sidecar* feature in macOS Catalina and iPadOS 13; however, it is one of the underrated features and is not known by most users. You can use your iPad as an external monitor, and it works both with and without a cable connection. There's no need to install any third-party apps; it is supported natively.
 

@@ -4,7 +4,7 @@ publishedAt: '2022-05-29'
 category: "soft-skill"
 ---
 
-![Efe Öge at PyConDe 2022](https://efe.me/public/images/posts/how-i-became-a-speaker/efe-oge-pyconde-2022.jpeg)
+![Efe Öge at PyConDe 2022](https://efe.me/images/posts/how-i-became-a-speaker/efe-oge-pyconde-2022.jpeg)
 
 It has been 3 years since to attend a face-to-face conference since PyConWeb 2019.
 

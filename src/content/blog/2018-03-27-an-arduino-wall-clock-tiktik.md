@@ -1,11 +1,11 @@
 ---
 title: "Arduino Wall Clock: Tiktik"
-image: /public/images/posts/tiktik/setting-rtc-ds3231.png
+image: /images/posts/tiktik/setting-rtc-ds3231.png
 publishedAt: '2018-03-27'
 isFeatured: true
 category: 'hardware'
 ---
-I've always had a fondness for [old-fashioned wall clocks like this one that chime every hour](/public/images/posts/tiktik/antique-wall-clock.jpg). They help me keep track of time throughout the day. So, I began to wonder, Is it possible to create a digital clock that replicates this charming feature? Well, I went ahead and did it! In this blog post, I'm going to explain how it works.
+I've always had a fondness for [old-fashioned wall clocks like this one that chime every hour](/images/posts/tiktik/antique-wall-clock.jpg). They help me keep track of time throughout the day. So, I began to wonder, Is it possible to create a digital clock that replicates this charming feature? Well, I went ahead and did it! In this blog post, I'm going to explain how it works.
 
 ## Equipments
 
@@ -26,7 +26,7 @@ I've always had a fondness for [old-fashioned wall clocks like this one that chi
 
 We should connect the RTC to the Arduino as seen below. Then, set the clock by pushing the code.
 
-![Setting RTC DS3231](/public/images/posts/tiktik/setting-rtc-ds3231.png)
+![Setting RTC DS3231](/images/posts/tiktik/setting-rtc-ds3231.png)
 
 ```c
 #include <DS3231.h>
@@ -44,7 +44,7 @@ void setup(){
 
 ### Last Touch
 
-![A complete project](/public/images/posts/tiktik/tiktik.png)
+![A complete project](/images/posts/tiktik/tiktik.png)
 
 ```c
 // CONFIGURATIONS

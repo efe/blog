@@ -1,6 +1,6 @@
 ---
 title: "Implementing DFA in C"
-image: /public/images/posts/dfa/example-of-dfa.jpg
+image: /images/posts/dfa/example-of-dfa.jpg
 publishedAt: '2016-05-27'
 ---
 
@@ -8,7 +8,7 @@ publishedAt: '2016-05-27'
 
 Assume we have a DFA like below.
 
-![An Example of a DFA](/public/images/posts/dfa/example-of-dfa.jpg)
+![An Example of a DFA](/images/posts/dfa/example-of-dfa.jpg)
 
 I'd like to implement a algorithm for this specific DFA. Without any reflection, anyone could choke numerous loops while designing. Besides, you will only have a algorithm for this specific DFA. It is not the smart method. I want to show you a generic and wisely method.
 

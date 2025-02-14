@@ -6,11 +6,11 @@ Red Alert 2 is an epic PC game that was released twenty years ago by [Westwood S
 
 In 2009, the [CnCNet](https://cncnet.org/what-is-cncnet) community (unaffiliated with EA Games) was established. CnCNet provides an online platform for Command and Conquer games, including Red Alert 2, Yuri’s Revenge, and Tiberian Sun. This means you can now enjoy playing these games online, much like CS:GO.
 
-I discovered CnCNet during the Covid-19 isolation period. My friend Umut and I have been playing RA2 online almost every night, just [like the good old days](/public/images/posts/cncnetserver/playing-pc-with-umut.jpg).
+I discovered CnCNet during the Covid-19 isolation period. My friend Umut and I have been playing RA2 online almost every night, just [like the good old days](/images/posts/cncnetserver/playing-pc-with-umut.jpg).
 
 The downside is that there are no CnCNet servers in Turkey. However, CnCNet allows you to host your own server. I've dockerized their tool and [published it on Docker hub](https://hub.docker.com/r/efeoge/cncnet_server), making it easier for everyone to run.
 
-<center><img src="/public/images/posts/cncnetserver/done.gif" title="new construction options"></center>
+<center><img src="/images/posts/cncnetserver/done.gif" title="new construction options"></center>
 
 ## Instructions
 - [Install Docker](https://docs.docker.com/get-docker/) on your server.

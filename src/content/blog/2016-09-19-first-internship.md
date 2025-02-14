@@ -1,6 +1,6 @@
 ---
 title: "First Internship"
-image: /public/images/posts/first-internship/step-by-step.png
+image: /images/posts/first-internship/step-by-step.png
 publishedAt: '2016-09-19'
 category: "soft-skill"
 ---
@@ -36,8 +36,8 @@ I worked on a custom CMS project written in Django/Python. It is the biggest Dja
 - Don't ask ambiguous question like "How to do this?". First, try to do. If you can't success, ask "What i missed in this solution?"
 - Go step by step.
 
-![Go step by step](/public/images/posts/first-internship/step-by-step.png)
+![Go step by step](/images/posts/first-internship/step-by-step.png)
 
 - Enjoy!
 
-Miss [my desk at Hipo](/public/images/posts/first-internship/my-desk-at-hipo.jpg) already!
+Miss [my desk at Hipo](/images/posts/first-internship/my-desk-at-hipo.jpg) already!
