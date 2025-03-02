@@ -27,12 +27,14 @@ Whenever you’re on a page you want to save, simply click the bookmark, and the
 
 # How Does It Work?
 
-This method leverages a simple JavaScript snippet embedded in the bookmarklet. Here’s what happens when you click it:
+You can execute JavaScript code directly from your browser’s address bar, and that’s exactly how this bookmarklet works. Here’s what happens when you click it:
 - The script retrieves the URL of the current tab.
 - It appends that URL to getpocket.com/save.
 - Pocket processes the request and saves the article to your account.
 
 That’s it—no extensions, no complex setups, just a quick and effective way to keep your reading list organized.
+
+The Javascript code in the link,
 
 ```javascript
 javascript:(function(){
