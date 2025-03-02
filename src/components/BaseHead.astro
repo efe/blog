@@ -1,6 +1,5 @@
 ---
 import "@/styles/globals.css";
-import { getEntryBySlug } from 'astro:content';
 import { CONFIG } from "@/config";
 
 export type Props = {
@@ -15,18 +14,9 @@ const {
 	image = CONFIG.meta.image,
 	pageType = "website",
 } = Astro.props;
-
-const getTitle = async (slug) => {
-  if (Astro.props.title) return Astro.props.title;
-
-  if (!slug) return CONFIG.meta.title; // Fallback if no slug is provided
-
-  const post = await getEntryBySlug('blog', slug);
-  return post?.data.title || CONFIG.meta.title;
-};
-
-const title = await getTitle(Astro.params?.slug);
-
+const title = Astro.props.title
+    ? `${Astro.props.title} - ${CONFIG.meta.title}`
+    : CONFIG.meta.title;
 const resolvedImage = image?.src
 	? {
 			src: new URL(image.src, Astro.site).toString(),
