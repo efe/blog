@@ -1,8 +1,8 @@
 {
-	"name": "@dani/astro-gaia",
+	"name": "@efe/blog",
 	"type": "module",
 	"version": "0.0.1",
-	"description": "AstroGaia: Template using Astro, Tailwind CSS, ReactJS and shadcn/ui.",
+	"description": "Efe Öge's Blog.",
 	"scripts": {
 		"dev": "astro dev",
 		"build": "astro check && astro build",
