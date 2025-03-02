@@ -1,6 +1,6 @@
 ---
 import "@/styles/globals.css";
-import { getCollection } from 'astro:content';
+import { getEntryBySlug } from 'astro:content';
 import { CONFIG } from "@/config";
 
 export type Props = {
@@ -16,16 +16,16 @@ const {
 	pageType = "website",
 } = Astro.props;
 
-const posts = await getCollection('blog');
+const getTitle = async (slug) => {
+  if (Astro.props.title) return Astro.props.title;
 
-const getTitle = (slug) => {
-  const post = posts.find((p) => p.slug === slug);
-  return post?.data.title || null; // Return null if not found
+  if (!slug) return CONFIG.meta.title; // Fallback if no slug is provided
+
+  const post = await getEntryBySlug('blog', slug);
+  return post?.data.title || CONFIG.meta.title;
 };
 
-const title = [getTitle(Astro.params.slug), Astro.props.title, CONFIG.meta.title]
-  .filter(Boolean)
-  .join(" | ");
+const title = await getTitle(Astro.params?.slug);
 
 const resolvedImage = image?.src
 	? {
