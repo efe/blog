@@ -21,7 +21,7 @@ type Props = { post: CollectionEntry<"blog"> };
 const { post } = Astro.props;
 const { Content } = await post.render();
 ---
-<BaseLayout description={CONFIG.meta.description}>
+<BaseLayout title={post.data.title} description={CONFIG.meta.description}>
 <div class="w-full pb-20">
   <div class="flex flex-row space-x-4 mb-6 text-sm text-secondaryDarker animate-slide-from-down-and-fade-1">
     <a
