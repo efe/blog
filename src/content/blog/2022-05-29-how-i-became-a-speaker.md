@@ -1,7 +1,7 @@
 ---
 title: "How I Became a Speaker"
 publishedAt: '2022-05-29'
-category: "soft-skill"
+category: "career"
 ---
 
 ![Efe Öge at PyConDe 2022](https://efe.me/images/posts/how-i-became-a-speaker/efe-oge-pyconde-2022.jpeg)

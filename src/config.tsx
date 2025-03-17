@@ -92,6 +92,16 @@ export const CONFIG: SiteConfig = {
 			href: "/posts/django",
 		},
 		{
+			title: "Company Culture",
+			page: "company-culture",
+			href: "/posts/company-culture",
+		},
+		{
+			title: "Career",
+			page: "career",
+			href: "/posts/career",
+		},
+		{
 			title: "Book",
 			page: "book",
 			href: "/posts/book",

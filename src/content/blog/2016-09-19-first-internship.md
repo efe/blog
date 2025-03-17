@@ -2,7 +2,7 @@
 title: "First Internship"
 image: /images/posts/first-internship/step-by-step.png
 publishedAt: '2016-09-19'
-category: "soft-skill"
+category: "career"
 ---
 
 I've just finished my first internship. In this post, I'd like to mention about what i did and I'll give tips for having a good internship.
@@ -11,7 +11,7 @@ I've just finished my first internship. In this post, I'd like to mention about 
 
 I was a backend intern in [Hipolabs](http://hipolabs.com) for 30 days. **Hipo** is a multi-disciplinary software agency. On the other hand, They are free and open software enthusiast. They provide place for [**Python Istanbul**](http://pyistanbul.org) meetings. Also, Hipo supports projects like [Django Rest Framework](https://fund.django-rest-framework.org/topics/funding/#our-sponsors).
 
-## What i did?
+## What I did?
 
 I worked on a custom CMS project written in Django/Python. It is the biggest Django project i have ever seen and understand the source code. When i see project that big, I deeply understand why design-patterns are vital. Without these, It will be real mess!
 

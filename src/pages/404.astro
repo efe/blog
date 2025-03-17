@@ -9,8 +9,8 @@ const posts = (await getCollection("blog")).sort(sortItemsByDateDesc);
 const featuredBlogPosts = posts.filter(
 	({ data }) => data.isFeatured,
 );
-const softSkillPosts = posts.filter(
-	({ data }) => data.category === "soft-skill",
+const careerPosts = posts.filter(
+	({ data }) => data.category === "career",
 );
 const conferenceTalkPosts = posts.filter(
 	({ data }) => data.category === "conference-talks",

@@ -2,7 +2,7 @@
 title: Slack Guideline
 og_image: /images/posts/slack-guideline/slack.png
 publishedAt: '2018-06-03'
-category: "soft-skill"
+category: "company-culture"
 ---
 Software engineering models from waterfall to _agile_ aim to increase productivity. Do more jobs at shorter time. Communication between colleagues has vital role for the productivity. Therefore, We should have set of rules for Slack or alternatives.
 

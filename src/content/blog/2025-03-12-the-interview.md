@@ -1,7 +1,7 @@
 ---
 title: "The Interview"
 publishedAt: '2025-03-12'
-category: 'web'
+category: 'company-culture'
 isFeatured: true
 ---
 

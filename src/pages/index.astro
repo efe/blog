@@ -9,8 +9,8 @@ const posts = (await getCollection("blog")).sort(sortItemsByDateDesc);
 const featuredBlogPosts = posts.filter(
 	({ data }) => data.isFeatured,
 );
-const softSkillPosts = posts.filter(
-	({ data }) => data.category === "soft-skill",
+const careerPosts = posts.filter(
+	({ data }) => data.category === "career",
 );
 const conferenceTalkPosts = posts.filter(
 	({ data }) => data.category === "conference-talks",
@@ -118,13 +118,13 @@ const conferenceTalkPosts = posts.filter(
         </a>
       </div>
 
-      {/* Soft Skills */}
+      {/* Career */}
       <div class="flex flex-col space-y-4 animate-slide-from-down-and-fade-4">
         <div class="flex flex-col space-y-2">
-          <span class="font-semibold md:px-6">Soft Skills</span>
+          <span class="font-semibold md:px-6">Career</span>
           <div class="flex flex-col space-y-8 md:space-y-1 md:px-2">
             {
-              softSkillPosts
+              careerPosts
                 .sort((a, b) => {
                   if (
                     new Date(a.data.publishedAt) > new Date(b.data.publishedAt)
